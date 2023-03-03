@@ -2,4 +2,4 @@
 
 Simple digital clock built using Javascript, CSS and HTML
 
-![clock](screenshot/1.png "Clock")
+![clock](screenshots/1.png "Clock")
